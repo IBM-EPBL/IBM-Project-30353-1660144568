@@ -1,18 +1,20 @@
 # IBM-Project-30353-1660144568
 # Smart Fashion Recommender Application
 
- •	TECHNOLOGY : Cloud App Development
+-	TECHNOLOGY : Cloud App Development
 
- •	TEAM ID :  PNT2022TMID46176
+- DOMAIN : Retails & E-Commerce
+
+-	TEAM ID :  PNT2022TMID46176
 
 #   TEAM MEMBERS
-•	NISHA S
+-	NISHA S
 
-•	NANDHINI R
+-	NANDHINI R
 
-•	RAGASWETHA M
+-	RAGASWETHA M
 
-•	MEERA V 
+-	MEERA V 
    
 # PROJECT DESCRIPTION
 
