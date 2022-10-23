@@ -1,6 +1,7 @@
 <div align="center">
 
 # PROJECT DESIGN PHASE I (PHASE 3)
+<img src='https://i.pinimg.com/originals/60/69/06/6069060ed00f7ecc749c32a5dd84b188.gif' alt="Flags" width="500" height="300"></img>
  </div> 
 
 # <img src='https://cdn.vectorstock.com/i/1000x1000/39/81/solution-icon-design-vector-8263981.webp' alt="Flags" width="135" height="100"></img> Proposed Solution
