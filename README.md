@@ -1,25 +1,33 @@
+<div align="center">
+
+<!-- PROJECT LOGO -->
+
+<br />
+
+  <a href="https://github.com/othneildrew/Best-README-Template">
+    <img src="https://github.com/gogulkrish/readmetemp/blob/master/images/IBM_logo.svg.png" alt="Logo" width="320" height="128">
+  </a>
+                   
 # IBM-Project-30353-1660144568
-# Smart Fashion Recommender Application
+  </div> 
+  
+  <div align="center">
+  
+ # **Smart Fashion Recommender Application**      
+   </div> 
 
--	TECHNOLOGY : Cloud App Development
+TECHNOLOGY : Cloud App Development     
+TEAM ID : PNT2022TMID46176                     
 
-- DOMAIN : Retails & E-Commerce
+# **👩‍👦TEAM MEMBERS**    
+```html                      
+Nisha S (TL)          
+Nndhini R         
+Ragaswetha M         
+Meera V              
+```          
 
--	TEAM ID :  PNT2022TMID46176
+# **📜PROJECT DESCRIPTION**          
 
-#   TEAM MEMBERS
--	NISHA S
-
--	NANDHINI R
-
--	RAGASWETHA M
-
--	MEERA V 
-   
-# PROJECT DESCRIPTION
-
-Image-based fashion recommendation systems (FRSs) have attracted a huge amount of attention from fast fashion retailers as they provide a personalized shopping experience to consumers. With the technological advancements, this branch of artificial intelligence exhibits a tremendous amount of potential in image processing, parsing, classification, and segmentation.
-
-#  Skills Required
-IBM Cloud, IBM Cloud Object Storage, Python, IBM Watson Assistant, Flask, Docker, Kubernetes.
-
+# **🎯Skills Required**        
+IBM Cloud,IBM Cloud Object Storage,Python,IBM Watson IoT Platform,Node-RED service,Cloudant DB.
