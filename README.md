@@ -17,9 +17,9 @@
    </div>
 
 # <img src='https://miro.medium.com/max/700/1*OicrRIgS2GlMkhzY7GIwOA.gif' alt="Flags" width="80" height="60"></img>Technology : Cloud App Development 
-# <img src='https://media3.giphy.com/media/KUXrQAtpRgRlC/giphy.gif?cid=790b7611a008f99be39326a40bc0080de2f0f42482f9ba3b&rid=giphy.gif&ct=g' alt="Flags" width="70" height="40"></img>  Domain : Retail & E-Commerce
+# <img src='https://i.pinimg.com/originals/a4/48/f0/a448f012ac2681e47ebdd86aaf8a274a.gif' alt="Flags" width="100" height="60"></img>  Domain : Retail & E-Commerce
 <div align="center">
-<img src='https://cdn.dribbble.com/users/1912990/screenshots/6129020/cloud_computing.gif' alt="Flags" width="350" height="300"></img> <img src='https://res.cloudinary.com/practicaldev/image/fetch/s--OKzD5lDG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/804/1%2AEe_ftZOzIdkgggs-2j4YqA.gif' alt="Flags" width="350" height="300"></img>
+<img src='https://cdn.dribbble.com/users/1912990/screenshots/6129020/cloud_computing.gif' alt="Flags" width="350" height="300"></img> <img src='https://media3.giphy.com/media/TjS53njIE2pxbZI22T/giphy.gif?cid=790b7611104412da8a69fa6a01ef8ca9ca013b605a21ea72&rid=giphy.gif&ct=s' alt="Flags" width="350" height="300"></img>
   </div> 
   </div>
 
