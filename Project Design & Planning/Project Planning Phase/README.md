@@ -1,6 +1,6 @@
 <div align="center">
 
-# Project Planning Phase
+# Project Planning Phase (Phase 5)
 <img src='https://images.prismic.io/smarttask/8ba97070-d140-4232-8695-1728b83f2ff0_Work+Breakdown+Structure.gif?auto=compress,format' alt="Flags" width="500" height="300"></img> 
 </div>
 
